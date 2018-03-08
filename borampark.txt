@@ -1,3 +1,4 @@
-박보람
-산업시스템공학과
-merciel03@naver.com
+이름: 박보람
+학과: 산업시스템공학과
+이메일: merciel03@naver.com
+github: merciel03
